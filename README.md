@@ -81,11 +81,10 @@ This will start a local server and open the chatbot in your default web browser.
 Below are some sample outputs you can expect to see when the chatbot is running:
 
 ### 1️⃣ Sample Output 1:
-![Output 1][Screenshot 2024-10-10 155119](https://github.com/user-attachments/assets/f240b7fa-eeae-4ea3-856a-6c6c34fe6ac5)
+![Output 1](![Screenshot 2024-10-10 155119](https://github.com/user-attachments/assets/f240b7fa-eeae-4ea3-856a-6c6c34fe6ac5)
 
 ### 2️⃣ Sample Output 2:
 ![Output 2](![Screenshot 2024-10-10 155157](https://github.com/user-attachments/assets/f98737f8-0e8c-4c5c-b90b-b0838100a9a4)
-)
 
 ---
 
@@ -96,10 +95,4 @@ Feel free to contribute or raise any issues in this repository.
 ---
 ```
 
-### Notes:
-- Replace `path_to_image1` and `path_to_image2` with the actual paths to your images showing sample outputs.
-- Make sure the images are saved in a directory inside your repository (for example, in an `images/` folder) and then update the links accordingly.
-- The GroqCloud API creation link is already included as per your request.
 
-Now you can copy this entire block and paste it into your `README.md` file!
-![Screenshot 2024-10-10 155119](https://github.com/user-attachments/assets/5dcd5be7-3ae5-49c7-bd85-65f8894a9201)
