@@ -26,7 +26,7 @@ First, you need to clone this repository to your local machine. Open your termin
 git clone https://github.com/MaJo264/Chatbot-using-Lllama-3-streamlit-and-GroqCloud.git
 cd Chatbot-using-Lllama-3-streamlit-and-GroqCloud
 ```
-
+```
 ---
 
 ## 📋 Pre-requisites
