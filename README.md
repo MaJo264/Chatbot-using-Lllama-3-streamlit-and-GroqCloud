@@ -49,7 +49,7 @@ This will install the required versions:
 
 To run this project, you'll need an API key from GroqCloud. Follow these steps to generate your own API key:
 
-1. Visit the [GroqCloud website](https://groq.com/cloud).
+1. Visit the [GroqCloud website](https://console.groq.com/playground).
 2. Sign up or log in to your account.
 3. Navigate to the API section and generate a new API key.
 
