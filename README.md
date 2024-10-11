@@ -41,6 +41,7 @@ This will install the required versions:
 
 - `groq==0.9.0`
 - `streamlit==1.37.0`
+- `python-dotenv==1.0.1`
 
 ---
 
