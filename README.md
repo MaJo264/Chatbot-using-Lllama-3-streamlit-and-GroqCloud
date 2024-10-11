@@ -81,10 +81,10 @@ This will start a local server and open the chatbot in your default web browser.
 Below are some sample outputs you can expect to see when the chatbot is running:
 
 ### 1️⃣ Sample Output 1:
-(![Screenshot 2024-10-10 155119](https://github.com/user-attachments/assets/f240b7fa-eeae-4ea3-856a-6c6c34fe6ac5)
+![Screenshot 2024-10-10 155119](https://github.com/user-attachments/assets/f240b7fa-eeae-4ea3-856a-6c6c34fe6ac5)
 
 ### 2️⃣ Sample Output 2:
-(![Screenshot 2024-10-10 155157](https://github.com/user-attachments/assets/f98737f8-0e8c-4c5c-b90b-b0838100a9a4)
+![Screenshot 2024-10-10 155157](https://github.com/user-attachments/assets/f98737f8-0e8c-4c5c-b90b-b0838100a9a4)
 
 ### 3️⃣ You can click on this link : "https://llama-3-chatbot.streamlit.app/"
 
