@@ -1,10 +1,11 @@
 import os
 import json
+from dotenv import load_dotenv
 
 import streamlit as st
 from groq import Groq
 
-
+load_dotenv()
 # streamlit page configuration
 st.set_page_config(
     page_title="LLAMA 3.1. Chat",
@@ -12,13 +13,7 @@ st.set_page_config(
     layout="centered"
 )
 
-
-
-GROQ_API_KEY = "GROQ_API_KEY"
-
-# save the api key to environment variable
-os.environ["GROQ_API_KEY"] = GROQ_API_KEY
-
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 client = Groq()
 
 # initialize the chat history as streamlit session state of not present already
