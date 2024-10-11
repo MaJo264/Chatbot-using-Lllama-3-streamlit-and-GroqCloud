@@ -56,9 +56,9 @@ To run this project, you'll need an API key from GroqCloud. Follow these steps t
 Once you have your API key, create a file named `.env` in the `src/` directory and add the following:
 
 ```json
-{
-  "GROQ_API_KEY": "your_groq_api_key"
-}
+
+  GROQ_API_KEY=your_groq_api_key
+
 ```
 
 Make sure to replace `"your_groq_api_key"` with your actual API key.
