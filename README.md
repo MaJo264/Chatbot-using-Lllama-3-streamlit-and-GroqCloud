@@ -85,6 +85,8 @@ Below are some sample outputs you can expect to see when the chatbot is running:
 ### 2️⃣ Sample Output 2:
 ![Output 2](![Screenshot 2024-10-10 155157](https://github.com/user-attachments/assets/f98737f8-0e8c-4c5c-b90b-b0838100a9a4)
 
+### 3️⃣ You can click on this link : "https://llama-3-chatbot.streamlit.app/"
+
 ---
 
 Enjoy building with **LLaMa 3** and **GroqCloud**! 🚀
@@ -92,6 +94,5 @@ Enjoy building with **LLaMa 3** and **GroqCloud**! 🚀
 Feel free to contribute or raise any issues in this repository.
 
 ---
-```
 
 
